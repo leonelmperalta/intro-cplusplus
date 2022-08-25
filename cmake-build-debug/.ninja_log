@@ -1,0 +1,16 @@
+# ninja log v5
+5	713	6829739894368555	CMakeFiles/ejercicios_cplusplus.dir/main.cpp.obj	d39a559295546bfc
+713	871	6829739895928687	ejercicios_cplusplus.exe	3f715be3b433c18f
+27	536	6826665252093850	CMakeFiles/ejercicios_cplusplus.dir/src/service/impl/Sphere.cpp.obj	2abcc64d08a2f04d
+11	155	6822106225087127	CMakeFiles/ejercicios_cplusplus.dir/src/Sphere.cpp.obj	95c4305d022196b
+5	442	6822152439959638	CMakeFiles/ejercicios_cplusplus.dir/src/Rectangle/Rectangle.cpp.obj	ff075ca9ac9ee13b
+0	232	6831394515493877	build.ninja	1998960610896dd7
+4	127	6822113763562169	CMakeFiles/ejercicios_cplusplus.dir/src/Sphere/Sphere.cpp.obj	44a2fe519ac766b7
+9	432	6822113766632365	CMakeFiles/ejercicios_cplusplus.dir/src/BasicOperationsPrinter/BasicOperationsPrinter.cpp.obj	5bf50fef4bf2a851
+537	800	6826665254714059	CMakeFiles/ejercicios_cplusplus.dir/src/service/impl/Rectangle.cpp.obj	5a067e4c8cc8da25
+4	612	6829666897098150	CMakeFiles/ejercicios_cplusplus.dir/src/service/impl/BasicOperationsPrinter.cpp.obj	faf61eec8af049be
+458	859	6829666661203222	CMakeFiles/ejercicios_cplusplus.dir/src/service/impl/BasicCalculator.cpp.obj	43a34a61feec9df4
+13	457	6829666657182898	CMakeFiles/ejercicios_cplusplus.dir/src/service/impl/TimeUtils.cpp.obj	21f09dfd6c532d15
+4	125	6827374909473395	CMakeFiles/ejercicios_cplusplus.dir/src/service/impl/Factorial.cpp.obj	cbcaec7930ab6602
+5	437	6829691697147172	CMakeFiles/ejercicios_cplusplus.dir/src/utils/impl/TimeUtils.cpp.obj	83d0a96468295082
+5	100	6829691782404267	CMakeFiles/ejercicios_cplusplus.dir/src/utils/impl/ArrayUtils.cpp.obj	eb9f3f98e7b4e9d1

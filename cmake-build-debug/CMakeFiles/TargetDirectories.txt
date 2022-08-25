@@ -1,0 +1,3 @@
+G:/BACKUP/Datos/Leonel Peralta/Leonel/LEO/LEO UNI/SEPTIMO CUATRIMESTRE/ALGORITMOS/ejercicios_cplusplus/cmake-build-debug/CMakeFiles/ejercicios_cplusplus.dir
+G:/BACKUP/Datos/Leonel Peralta/Leonel/LEO/LEO UNI/SEPTIMO CUATRIMESTRE/ALGORITMOS/ejercicios_cplusplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/BACKUP/Datos/Leonel Peralta/Leonel/LEO/LEO UNI/SEPTIMO CUATRIMESTRE/ALGORITMOS/ejercicios_cplusplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
